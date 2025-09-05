@@ -9,5 +9,3 @@ public class BancoDeposito extends Banco {
         System.out.println("Deposito exitoso. Nuevo saldo: $" + getSaldo());
     }
 }
-
-
